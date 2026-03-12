@@ -1,4 +1,4 @@
-# Disk Image Forensics – Methodology
+# Disk Image Forensics - Methodology
 
 ## Overview
 
