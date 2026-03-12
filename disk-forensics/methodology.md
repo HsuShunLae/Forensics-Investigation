@@ -86,17 +86,13 @@ Several forensic artifacts were examined:
 - System configuration files
 
 Special attention was given to files located in:
-Documents and Settings/Bad Guy 2K/Desktop/ 
-
-named "COOL WORD DOCUMENT.doc"
+Documents and Settings/Bad Guy 2K/
 
 These artifacts were analyzed using:
 
 - metadata inspection
 - content inspection
 - hidden data analysis
-
-<img width="531" height="353" alt="image" src="https://github.com/user-attachments/assets/b81d95c6-3404-47a3-9a92-6d84d674dfcc" />
 
 ---
 
@@ -110,9 +106,6 @@ Suspicious files were examined for hidden content such as:
 
 This process revealed hidden text inside a Word document that contained stolen credit card numbers.
 
-<img width="428" height="591" alt="image" src="https://github.com/user-attachments/assets/42f71a39-6983-4c6b-a859-d0c7149ae358" />
-
-
 ---
 
 # 6. Timeline Analysis
@@ -124,11 +117,6 @@ The following metadata fields were reviewed:
 - Creation time
 - Modification time
 - Access time
-
-The timestamps suggested that most suspicious activities occurred between:
-29 November 2003
-30 November 2003
-
 ---
 
 # 7. Deleted File Analysis
